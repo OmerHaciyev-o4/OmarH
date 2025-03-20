@@ -23,31 +23,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="" alt="C" width="40" height="40"/>+
-    <img src="" alt="CPP" width="40" height="40"/>+
-    <img src="" alt="CSHARP" width="40" height="40"/>+
-    <img src="" alt="WPF" width="40" height="40"/>+
-    <img src="" alt="MsSQL" width="40" height="40"/>+
-    <img src="" alt="Oracle SQL" width="40" height="40"/>+
-    <img src="" alt="Oracle APEX" width="40" height="40"/>+
-    <img src="" alt="HTML5" width="40" height="40"/>+
-    <img src="" alt="CSS" width="40" height="40"/>+
-    <img src="" alt="Javascript" width="40" height="40"/>+
-    <img src="" alt="ASP-NET" width="40" height="40"/>+
-    <img src="" alt="Angular" width="40" height="40"/>+
-    <img src="" alt="Typescript" width="40" height="40"/>+
-    <img src="" alt="React" width="40" height="40"/>+
-    <img src="" alt="Bootstrap" width="40" height="40"/>+
-    <img src="" alt="Tailwindcss" width="40" height="40"/>+
-    <img src="" alt="ExpressJS" width="40" height="40"/>+
-    <img src="" alt="NodeJs" width="40" height="40"/>+
-    <img src="" alt="Nextjs" width="40" height="40"/>+
-    <img src="" alt="Chart Js" width="40" height="40"/>+
-    <img src="" alt="Mongodb" width="40" height="40"/>+
-    <img src="" alt="Java" width="40" height="40"/>+
-    <img src="" alt="PHP" width="40" height="40"/>+
-    <img src="" alt="Python" width="40" height="40"/>+
-    <img src="" alt="Dot Net" width="40" height="40"/>+
-    <img src="" alt="Postman" width="40" height="40"/>+
-    <img src="" alt="Git" width="40" height="40"/>+
+    <img src="" alt="C" width="40" height="40"/>
+    <img src="" alt="CPP" width="40" height="40"/>
+    <img src="" alt="CSHARP" width="40" height="40"/>
+    <img src="" alt="WPF" width="40" height="40"/>
+    <img src="" alt="MsSQL" width="40" height="40"/>
+    <img src="" alt="Oracle SQL" width="40" height="40"/>
+    <img src="" alt="Oracle APEX" width="40" height="40"/>
+    <img src="" alt="HTML5" width="40" height="40"/>
+    <img src="" alt="CSS" width="40" height="40"/>
+    <img src="" alt="Javascript" width="40" height="40"/>
+    <img src="" alt="ASP-NET" width="40" height="40"/>
+    <img src="" alt="Angular" width="40" height="40"/>
+    <img src="" alt="Typescript" width="40" height="40"/>
+    <img src="" alt="React" width="40" height="40"/>
+    <img src="" alt="Bootstrap" width="40" height="40"/>
+    <img src="" alt="Tailwindcss" width="40" height="40"/>
+    <img src="" alt="ExpressJS" width="40" height="40"/>
+    <img src="" alt="NodeJs" width="40" height="40"/>
+    <img src="" alt="Nextjs" width="40" height="40"/>
+    <img src="" alt="Chart Js" width="40" height="40"/>
+    <img src="" alt="Mongodb" width="40" height="40"/>
+    <img src="" alt="Java" width="40" height="40"/>
+    <img src="" alt="PHP" width="40" height="40"/>
+    <img src="" alt="Python" width="40" height="40"/>
+    <img src="" alt="Dot Net" width="40" height="40"/>
+    <img src="" alt="Postman" width="40" height="40"/>
+    <img src="" alt="Git" width="40" height="40"/>
 </p>
